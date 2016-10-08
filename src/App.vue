@@ -15,6 +15,8 @@
   }
   .btn-group{
   	margin-top: 20px;
+  	width: 100%;
+  	max-width: 100%;
   	text-align: center;
   }
 </style>
